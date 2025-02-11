@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="^Hi!/`f0x89gCma9hYVD" x="0" y="0"><statement name="HANDLER"><block type="device_show_number" id="qN28W_THG~5.SNok7-ha"><value name="number"><block type="HealthSensors_read_temperature" id="%MZhrkP-w@O-}H4wX4Ql"></block></value></block></statement></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="^Hi!/`f0x89gCma9hYVD" x="0" y="0"></block></xml>
