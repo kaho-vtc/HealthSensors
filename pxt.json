@@ -1,5 +1,5 @@
 {
-    "name": "HealthSensorTest",
+    "name": "HealthSensorLibrary",
     "description": "",
     "dependencies": {
         "core": "*",
