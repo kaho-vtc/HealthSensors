@@ -4,7 +4,9 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "gatorParticle": "github:sparkfun/pxt-gator-particle#v1.1.6",
+        "pxt-muselab": "github:muselab/pxt-wifi-shield#v1.9.60"
     },
     "files": [
         "main.blocks",
@@ -17,7 +19,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "7.0.57",
+        "target": "7.0.61",
         "targetId": "microbit"
     },
     "supportedTargets": [
